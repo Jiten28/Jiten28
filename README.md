@@ -54,7 +54,7 @@ A Computer Science and Engineering undergraduate with a specialization in Artifi
 ![](https://github-contributor-stats.vercel.app/api?username=Jiten28&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jiten28/Jiten28/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jiten28/Jiten28/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Jiten28/Jiten28/output/github-snake.svg" />
 </picture>
