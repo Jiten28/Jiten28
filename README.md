@@ -95,22 +95,16 @@ If you find my projects helpful or interesting, consider buying me a coffee. You
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <!-- Row 1: Two cards side by side -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jiten28&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiten28&theme=vision-friendly-dark&hide_border=false" />
 </div>
 
-<!-- GitHub Stats Card -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jiten28&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" />
-
-<!-- GitHub Streak Stats -->
-<img width="49%" src="https://streak-stats.demolab.com/?user=Jiten28&theme=vision-friendly-dark&hide_border=false" />
-
-<!-- Top Languages -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiten28&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Jiten28&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true" />
+  <!-- Row 2: Top Languages centered (slightly narrower for better aesthetics) -->
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiten28&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
+
 
 ## 🐍 Contribution Snake
 
