@@ -35,6 +35,16 @@ I'm a **Computer Science and Engineering graduate** (B.Tech, 2025) with a specia
 
 </div>
 
+## ☕ Support My Work
+
+<div align="center">
+  
+If you find my projects helpful or interesting, consider buying me a coffee. Your support keeps me coding and building cool stuff!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jiten282005)
+
+</div>
+
 ## 🛠️ Tech Stack & Tools
 
 ### **Languages & Core**
@@ -89,10 +99,14 @@ I'm a **Computer Science and Engineering graduate** (B.Tech, 2025) with a specia
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiten28&theme=vision-friendly-dark&hide_border=false" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiten28&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Jiten28&theme=monokai&no-frame=false&no-bg=true&margin-w=4" />
-</div>
+<!-- GitHub Stats Card -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jiten28&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" />
+
+<!-- GitHub Streak Stats -->
+<img width="49%" src="https://streak-stats.demolab.com/?user=Jiten28&theme=vision-friendly-dark&hide_border=false" />
+
+<!-- Top Languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiten28&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Jiten28&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true" />
